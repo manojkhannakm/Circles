@@ -2,7 +2,7 @@
 
 ### Introduction
 
-An Android library module that provides three custom views 'CircleLayout', 'CircleView', 'CircleTextView'.
+An Android library module that provides three custom views `CircleLayout`, `CircleView`, `CircleTextView`. The circles are rendered using `VectorDrawable`.
 
 ### Preview
 

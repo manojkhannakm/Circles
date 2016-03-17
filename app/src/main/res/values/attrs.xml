@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <declare-styleable name="CircleView">
+
+        <attr name="circle_x_factor" format="float" />
+        <attr name="circle_y_factor" format="float" />
+        <attr name="circle_size" format="dimension" />
+        <attr name="circle_color" format="color" />
+
+    </declare-styleable>
+
+    <declare-styleable name="CircleTextView">
+
+        <attr name="circle_text_x_factor" format="float" />
+        <attr name="circle_text_y_factor" format="float" />
+        <attr name="circle_text_size" format="dimension" />
+        <attr name="circle_text_color" format="color" />
+        <attr name="circle_text_text" format="string" />
+
+    </declare-styleable>
+
+</resources>

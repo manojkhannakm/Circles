@@ -2,7 +2,7 @@
 
 <resources>
 
-    <string name="app_name">Circles</string>
+    <string name="app_name">Circles View</string>
 
     <string name="generate_button_main">Generate</string>
 
